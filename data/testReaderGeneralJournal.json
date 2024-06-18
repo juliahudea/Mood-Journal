@@ -1,0 +1,17 @@
+{
+  "journal entries": [
+    {
+      "date": 1678089600000,
+      "sleep": 5,
+      "mood": 3,
+      "weather": "sunny"
+    },
+    {
+      "date": 1678176000000,
+      "sleep": 6,
+      "mood": 4,
+      "weather": "cloudy"
+    }
+  ],
+  "name": "My Journal"
+}

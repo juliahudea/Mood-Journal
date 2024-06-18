@@ -1,0 +1,35 @@
+{
+    "journal entries": [
+        {
+            "date": 1677571200000,
+            "sleep": 6,
+            "mood": 4,
+            "weather": "sunny"
+        },
+        {
+            "date": 1679900400000,
+            "sleep": 7,
+            "mood": 5,
+            "weather": "sunny"
+        },
+        {
+            "date": 1679814000000,
+            "sleep": 8.5,
+            "mood": 3,
+            "weather": "sunny"
+        },
+        {
+            "date": 1680591600000,
+            "sleep": 8,
+            "mood": 5,
+            "weather": "cloudy"
+        },
+        {
+            "date": 1681369200000,
+            "sleep": 6,
+            "mood": 5,
+            "weather": "raining"
+        }
+    ],
+    "name": "Your Mood Journal"
+}
